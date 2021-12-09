@@ -1,2 +1,2 @@
-# glossydresscode
-beauty and care
+# GlossyDressCode
+Beauty and Care
